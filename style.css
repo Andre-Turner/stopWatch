@@ -1,0 +1,19 @@
+body {
+    display: flex;
+}
+
+.windowshell {
+    background-color: rgba(73, 131, 181, 0.849);
+    flex-grow: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.outershell {
+    border-radius: 5%;
+    background-color: whitesmoke;
+    width: 80%;
+    padding: 10px;
+    
+}
