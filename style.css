@@ -3,7 +3,7 @@ body {
 }
 
 .windowshell {
-    background-color: rgba(73, 131, 181, 0.849);
+    background-color: rgba(6, 19, 30, 0.849);
     flex-grow: 1;
     display: flex;
     align-items: center;
@@ -15,5 +15,8 @@ body {
     background-color: whitesmoke;
     width: 80%;
     padding: 10px;
-    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }
